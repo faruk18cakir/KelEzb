@@ -1,0 +1,2 @@
+# KelEzb
+Kelime ezber programı
