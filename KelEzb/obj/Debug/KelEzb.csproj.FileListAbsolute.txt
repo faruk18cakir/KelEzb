@@ -1,0 +1,78 @@
+E:\ders\Code\Proje\KelEzb\KelEzb\bin\Debug\KelEzb.exe.config
+E:\ders\Code\Proje\KelEzb\KelEzb\bin\Debug\KelEzb.exe
+E:\ders\Code\Proje\KelEzb\KelEzb\bin\Debug\KelEzb.pdb
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.csprojAssemblyReference.cache
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.Kelime_Bulma.resources
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.Kelime_Tekrari.resources
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.MainForm_KelEzb.resources
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.Properties.Resources.resources
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.VeriGir.resources
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.csproj.GenerateResource.cache
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.csproj.CoreCompileInputs.cache
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.exe
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.pdb
+E:\ders\Code\Proje\KelEzb\KelEzb\bin\Debug\KellEzbAcs.mdb
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\bin\Debug\KellEzbAcs.mdb
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\bin\Debug\KelEzb.exe.config
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\bin\Debug\KelEzb.exe
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\bin\Debug\KelEzb.pdb
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.csprojAssemblyReference.cache
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.Kelime_Bulma.resources
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.Kelime_Tekrari.resources
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.MainForm_KelEzb.resources
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.Properties.Resources.resources
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.VeriGir.resources
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.csproj.GenerateResource.cache
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.csproj.CoreCompileInputs.cache
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.exe
+E:\AILE\Ömer Faruk\çalışılacak\KelEzb\KelEzb\obj\Debug\KelEzb.pdb
+E:\ders\Code\Proje\KelEzb\KelEzb\obj\Debug\KelEzb.KelimeSecme.resources
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\bin\Debug\KellEzbAcs.mdb
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\bin\Debug\KelEzb.exe.config
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\bin\Debug\KelEzb.exe
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\bin\Debug\KelEzb.pdb
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.csprojAssemblyReference.cache
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.Kelime_Bulma.resources
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.Kelime_Tekrari.resources
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.KelimeSecme.resources
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.MainForm_KelEzb.resources
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.Properties.Resources.resources
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.VeriGir.resources
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.csproj.GenerateResource.cache
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.csproj.CoreCompileInputs.cache
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.exe
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.pdb
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\bin\Debug\KellEzbAcs.mdb
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\bin\Debug\KelEzb.exe.config
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\bin\Debug\KelEzb.exe
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\bin\Debug\KelEzb.pdb
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.csprojAssemblyReference.cache
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.Kelime_Bulma.resources
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.Kelime_Tekrari.resources
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.KelimeSecme.resources
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.MainForm_KelEzb.resources
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.Properties.Resources.resources
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.VeriGir.resources
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.csproj.GenerateResource.cache
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.csproj.CoreCompileInputs.cache
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.exe
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.pdb
+E:\AILE\Ömer Faruk\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.Hazırlayan.resources
+E:\ders\Code\Proje\C181130022_BM102_DonemProjesi\KelEzb\obj\Debug\KelEzb.Hazırlayan.resources
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\bin\Debug\KellEzbAcs.mdb
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\bin\Debug\KelEzb.exe.config
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\bin\Debug\KelEzb.exe
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\bin\Debug\KelEzb.pdb
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.csproj.AssemblyReference.cache
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.csproj.SuggestedBindingRedirects.cache
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.Hazırlayan.resources
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.Kelime_Bulma.resources
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.Kelime_Tekrari.resources
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.KelimeSecme.resources
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.MainForm_KelEzb.resources
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.Properties.Resources.resources
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.VeriGir.resources
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.csproj.GenerateResource.cache
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.csproj.CoreCompileInputs.cache
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.exe
+D:\Ders\GitProje\Kelime Ezber Programı\KelEzb\obj\Debug\KelEzb.pdb
